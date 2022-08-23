@@ -1,1 +1,3 @@
-# aula-eduardo
+- Sobre Mim
+- Professora Dileusa
+- Interessada no momento em programação HTML e CSS.
